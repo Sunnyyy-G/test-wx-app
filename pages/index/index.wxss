@@ -1,0 +1,20 @@
+page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.scroll-area {
+  flex: 1;
+  overflow-y: hidden;
+}
+
+.intro {
+  padding: 30px;
+  text-align: center;
+}
+
+.videi-demo {
+  width: 100%;
+  height: 100%;
+}
